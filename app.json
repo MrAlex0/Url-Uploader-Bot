@@ -1,6 +1,6 @@
 {
-  "name": "Url Uploader Bot",
-  "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
+  "name": "Ott Downloader Bot",
+  "description": "I can download OTT' s Content and upload to Cloud or Telegram",
   "keywords": [
     "telegram",
     "best",
@@ -14,9 +14,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://t.me/UrlUpxBot",
-  "website": "https://github.com/PredatorHackerzZ",
-  "repository": "https://github.com/MrAbhi2k3/Url-Uploader-Bot",
+  "success_url": "https://t.me/Noting",
+  "website": "https://github.com/youarealol",
+  "repository": "https://github.com/GoForStudy",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -24,32 +24,32 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "6074284959:AAGthQpmZYia6HwQZ58pa-55G3T79_dnbEc"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "9807742"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "ff30522d3440a88421932a5e1d032da0"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID",
-      "value": ""
+      "value": "1451156642"
     },
     "DATABASE_URL": {
       "description": "Your MongoDB URI",
-      "value": ""
+      "value": "mongodb+srv://jaajsjsksjwbwbwpq:blN8PY4Z2LLtBHHZ@cluster0.ffrx2h5.mongodb.net/?retryWrites=true&w=majority"
     },
     "UPDATES_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel id (with -100)..",
-      "value": "",
+      "value": "-1001857539852",
       "required": false
     },
     "SESSION_NAME": {
       "description": "Your Session Name",
-      "value": "URL-UPLOADER"
+      "value": "Mr-Robots"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
